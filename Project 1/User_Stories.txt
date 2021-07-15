@@ -1,0 +1,8 @@
+As a free user, I should be able to access a page that allows me to purchase a subscription, and I should
+also be allowed to preview the magazines before I buy. **PLEASE NOTE: There is no payments in this web application
+at this time**.
+
+As a subscriber, I should be able to view and read the magazines that I have purchased a subscription to.
+
+As an administrator, I should be able to see how many subscribers there currently are, and also, I should be able to
+add and delete magazines if necessary.
