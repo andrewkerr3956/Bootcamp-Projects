@@ -10,6 +10,10 @@ body {
     margin: 0;
 }
 
+p {
+    font-family: 'Abel', sans-serif;
+}
+
 header {
     background: rgb(48,68,120);
     text-align: center;
@@ -48,6 +52,12 @@ nav img {
 
 footer {
     background: rgb(48,68,120);
+    margin-top: 20px;
     margin-bottom: 0;
     color: white;
+}
+
+#cs-form {
+    font-family: 'Abel', sans-serif;
+    text-align: center;
 }
