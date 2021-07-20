@@ -61,3 +61,8 @@ footer {
     font-family: 'Abel', sans-serif;
     text-align: center;
 }
+
+.card {
+    margin-top: 20px;
+    text-align: center;
+}

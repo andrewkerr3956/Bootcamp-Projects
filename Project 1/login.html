@@ -11,7 +11,7 @@
 <body>
     <header class="container-fluid">
         <nav>
-            <button type="button" class="btn btn-success float-right"><a href="login.html">Login</a></button>
+            <button type="button" class="btn btn-danger float-right">Login</button>
             <link rel="stylesheet" href="css/style.css" />
             <!-- Bootstrap CSS-->
             <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" />
@@ -27,7 +27,27 @@
         </nav>
     </header>
     <main>
-
+        <div class="container">
+            <!-- Using a Bootstrap card instead of a Figure element,
+            since this form is not a figure. -->
+            <div class="card">
+                <div class="card-header">
+                    <h2>Sign into an account.</h2>
+                </div>
+                <div class="card-body">
+                    <form class="container-fluid" id="login-form">
+                    <label for="Username">Username</label> <br />
+                    <input type="text" name="username" id="username" required="required" /> <br />
+                    <label for="Password">Password</label> <br />
+                    <input type="password" name="password" id="password" required="required" /> <br />
+                </form>
+                </div>
+                <div class="card-footer">
+                    <button type="submit" class="btn btn-primary" name="login-form-submit" id="login-form-submit">Login</button>
+                </div>
+            </div>
+            
+        </div>
     </main>
     <footer>
         &copy;Copyright Gamer Grove 2021
