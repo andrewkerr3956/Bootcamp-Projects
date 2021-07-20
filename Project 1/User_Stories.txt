@@ -1,8 +1,7 @@
-As a free user, I should be able to access a page that allows me to purchase a subscription, and I should
-also be allowed to preview the magazines before I buy. **PLEASE NOTE: There is no payments in this web application
-at this time**.
+As a user, I should be able to fill out a form that will allow me to report issues I am
+having with the web application.
 
-As a subscriber, I should be able to view and read the magazines that I have purchased a subscription to.
+As a user, I should be able to view the magazines available, so I can decide if I want to 
+read them or not.
 
-As an administrator, I should be able to see how many subscribers there currently are, and also, I should be able to
-add and delete magazines if necessary.
+As a user, I should be able to see when the next magazine issue will be released.
