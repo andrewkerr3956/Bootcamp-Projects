@@ -22,9 +22,9 @@ footer { background: rgb(48,68,120); margin-top: 20px; margin-bottom: 0; color: 
 
 #cs-form { font-family: 'Abel', sans-serif; text-align: center; }
 
-.card { margin-top: 20px; text-align: center; }
+.card { text-align: center; }
 
-.flex-container { display: flex; justify-content: space-evenly; flex-wrap: wrap; }
+.flex-container { display: flex; flex-flow: wrap row; justify-content: center; 
+    font-family: 'Abel', sans-serif; }
 
-.flex-item { align-content: center; border: 4px black solid; margin: 10px; max-height: 20%;
-max-width: 20%; }
+.flex-item { align-content: center; border: 4px black solid; margin: 10px; flex-basis: 30%; }
