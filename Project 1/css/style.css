@@ -33,3 +33,12 @@ footer { background: rgb(48,68,120); margin-top: 50px; margin-bottom: 0; color: 
     max-width: 20%; }
 
 #infoCarousel p { color: white; font-size: 0.8em; font-weight: bold; }
+
+.about-1 { background: rgb(200, 75, 75); border-radius: 0.2em; width: 65%; 
+    margin-top: 10px; display: inline-block; }
+
+.about-2 { background: rgb(75, 200, 75); border-radius: 0.2em; width: 65%; 
+    margin: 10px 0 0 35%; }
+
+.about-3 { background: rgb(75, 75, 200); border-radius: 0.2em; width: 65%; 
+    margin-top: 10px; }
