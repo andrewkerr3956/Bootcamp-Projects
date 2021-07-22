@@ -1,3 +1,8 @@
+@media screen and (max-width: 479px ) {
+    #infoCarousel { display: none; }
+}
+
+
 .float-left { float: left; }
 
 .float-right { float: right; }
