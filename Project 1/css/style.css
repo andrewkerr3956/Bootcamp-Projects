@@ -1,7 +1,8 @@
 @media screen and (max-width: 479px ) {
     #infoCarousel { display: none; }
+    #GG-About-2 { margin-left: 0; }
+    .flex-item { flex-basis: 100%!important; }
 }
-
 
 .float-left { float: left; }
 
