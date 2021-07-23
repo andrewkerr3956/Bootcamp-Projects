@@ -10,8 +10,6 @@
 
 body { margin: 0; }
 
-p { font-family: 'Abel', sans-serif; }
-
 header { background: rgb(48,68,120); text-align: center; }
 
 nav ul { margin: auto; text-align: center; font-weight: bold; }
@@ -23,6 +21,8 @@ nav a { text-decoration: none; color: white; }
 nav a:hover { text-decoration: none; color: antiquewhite; }
 
 nav img { max-height: 15%; height: 100px; max-width: 15%; width: 300px; margin-left: 50px; }
+
+p { font-family: 'Abel', sans-serif; }
 
 footer { background: rgb(48,68,120); margin-top: 50px; margin-bottom: 0; color: white; }
 
